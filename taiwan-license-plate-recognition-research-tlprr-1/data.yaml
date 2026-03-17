@@ -1,0 +1,12 @@
+names:
+- '0'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: taiwan-license-plate-recognition-research-tlprr-dbjwq
+  url: https://universe.roboflow.com/xu-1mmuh/taiwan-license-plate-recognition-research-tlprr-dbjwq/dataset/1
+  version: 1
+  workspace: xu-1mmuh
+test: ../test/images
+train: ../train/images
+val: ../valid/images
